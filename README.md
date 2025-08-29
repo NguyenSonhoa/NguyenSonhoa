@@ -1,8 +1,7 @@
 [![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=NguyenSonhoa&theme=beach&footer=soninvox@gmail.com&show_icons=true&title=Son%20Nguyen&description=Finding%20New%20Mechanic&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
 
 
-<img width="500" height="70" alt="aboutme" src="https://github.com/user-attachments/assets/3899ecbb-c49f-44b7-8d0d-f5905c37c16d" />
-
+<a href="/NguyenSonhoa/NguyenSonhoa/blob/main"> <img width="500" height="70" alt="aboutme" src="https://github.com/user-attachments/assets/3899ecbb-c49f-44b7-8d0d-f5905c37c16d"></a>
 
 
 Designer UI/UX, Junior Coding & Multitask.
