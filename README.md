@@ -1,3 +1,7 @@
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=NguyenSonhoa&theme=beach&footer=soninvox@gmail.com&show_icons=true&title=Son%20Nguyen&description=Finding%20New%20Mechanic&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+
+
+
 
 Designer UI/UX, Junior Coding & Multitask.
 ------------------------------------------
