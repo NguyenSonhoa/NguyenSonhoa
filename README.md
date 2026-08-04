@@ -63,9 +63,6 @@ I build Minecraft experiences where **code, game design, and visual identity** w
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenSonhoa&theme=tokyonight" alt="GitHub profile summary" />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NguyenSonhoa&theme=tokyonight" alt="Repositories by language" />
 <img height="165" src="https://streak-stats.demolab.com?user=NguyenSonhoa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenSonhoa&bg_color=0d0d16&color=bb6bff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
