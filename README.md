@@ -1,84 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:451080,100:00d9ff&text=SON%20NGUYEN&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Crafting%20systems.%20Shaping%20worlds.%20Finding%20new%20mechanics.&descAlignY=59&animation=fadeIn" width="100%" alt="Son Nguyen profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:5B8731,36:8A5A36,37:6B452B,100:2E1B12&text=SON%20NGUYEN&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Minecraft%20systems%20developer%20%C2%B7%20builder%20%C2%B7%20world%20shaper&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Son Nguyen Minecraft profile banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=BB6BFF&center=true&vCenter=true&width=700&lines=Minecraft+Systems+Developer;UI%2FUX+Designer+%C2%B7+3D+Explorer;Java+%C2%B7+Kotlin+%C2%B7+Lua;Turning+wild+ideas+into+playable+mechanics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=1100&color=7CB342&center=true&vCenter=true&width=900&lines=%5B%2Fclass%5D+Minecraft+Systems+Developer;%5B%2Fskill%5D+Java+%C2%B7+Kotlin+%C2%B7+Lua;%5B%2Fbuild%5D+Progression+that+players+remember;%5B%2Fspawn%5D+Turning+ideas+into+playable+worlds)](https://git.io/typing-svg)
 
-<a href="mailto:soninvox@gmail.com"><img src="https://img.shields.io/badge/Email-soninvox%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.patreon.com/c/Surext"><img src="https://img.shields.io/badge/Support-Surext-bb6bff?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" /></a>
-<a href="https://github.com/NguyenSonhoa?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-171723?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="mailto:soninvox@gmail.com"><img src="https://img.shields.io/badge/MAIL-soninvox%40gmail.com-6B452B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Son Nguyen" /></a>
+<a href="https://www.patreon.com/c/Surext"><img src="https://img.shields.io/badge/SUPPORT-Surext-D96B42?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" /></a>
+<a href="https://github.com/NguyenSonhoa?tab=repositories"><img src="https://img.shields.io/badge/INVENTORY-Projects-5B8731?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 </div>
 
-<img width="100%" alt="Featured artwork" src="https://github.com/user-attachments/assets/215317df-2c00-4252-8fdd-efbb738dc6a1" />
+<br>
 
-## `> whoami`
+## [Player Profile]
 
 ```text
-Name      Son Nguyen
-Based in  Vietnam
-Role      Minecraft systems developer / UI-UX designer
-Focus     Progression loops, custom mechanics, polished player experiences
+Player    Son Nguyen
+Biome     Vietnam
+Class     Minecraft systems developer / UI-UX designer
+Specialty Progression loops, custom mechanics, polished player experiences
 Quest     Learn deeply. Build boldly. Make every click feel intentional.
 ```
 
-I build Minecraft experiences where **code, game design, and visual identity** work as one system. Most days involve Java or Kotlin, progression balancing, custom interfaces, strange mechanics, and the occasional Blender rabbit hole.
+I build Minecraft experiences where **code, game design, and visual identity** work as one system. My work moves between Java and Kotlin, progression balancing, custom interfaces, unusual mechanics, and the occasional Blender rabbit hole.
 
-- Building and maintaining Minecraft plugins, tools, and gameplay systems.
-- Learning Lua for services, automation, and experiments.
-- Exploring Blender, 3D workflows, and content creation.
-- Working with the MineRua team.
-- Planning a new creative chapter after the Minecraft server journey ends in **June 2028**.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Crafting Now</h3>
+      <ul>
+        <li>Building Minecraft plugins, tools, and gameplay systems.</li>
+        <li>Learning Lua for services, automation, and experiments.</li>
+        <li>Exploring Blender, 3D workflows, and content creation.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Server Status</h3>
+      <ul>
+        <li>Working with the MineRua team.</li>
+        <li>Designing systems with clear player feedback.</li>
+        <li>Planning a new creative chapter after June 2028.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## `> loadout`
+## [Hotbar]
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper_API-F4F4F4?style=for-the-badge&logo=paper&logoColor=222222)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Paper](https://img.shields.io/badge/PAPER_API-5B8731?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-## `> selected builds`
+## [Featured Builds]
 
-| Project | Signal |
-|:--|:--|
+| Build | Loot inside |
+| :--- | :--- |
 | **[SellGUI](https://github.com/NguyenSonhoa/SellGUI)** | Configurable selling, autosell, price tools, custom-item hooks, and multi-menu workflows for modern Paper servers. |
 | **[Oregen3 Recode](https://github.com/NguyenSonhoa/Oregen3-Recode)** | A Java recode targeting modern Minecraft server versions. |
 | **[TurtleBroadcast](https://github.com/NguyenSonhoa/TurtleBroadcast)** | Kotlin-powered server broadcast tooling. |
 | **[MythicLib Recoded](https://github.com/NguyenSonhoa/MythicLib-Recoded)** | Experiments around rebuilding and understanding complex Minecraft systems. |
 
-## `> telemetry`
+## [World Map]
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=NguyenSonhoa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=NguyenSonhoa&theme=gruvbox&hide_border=true&background=00000000&ring=5B8731&fire=D96B42&currStreakLabel=8A5A36" alt="GitHub contribution streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenSonhoa&bg_color=0d0d16&color=bb6bff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenSonhoa&bg_color=1B130E&color=E8D7A5&line=5B8731&point=D96B42&area=true&area_color=5B8731&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
-## `> transmission`
+## [Message Board]
 
 > **Good mechanics are discovered. Great mechanics are refined.**
 
-Have a plugin idea, a game system that needs structure, or a visual concept that needs a technical path? Reach out through [email](mailto:soninvox@gmail.com), open a discussion in a relevant repository, or support the next experiment on [Patreon](https://www.patreon.com/c/Surext).
+Have a plugin idea, a game system that needs structure, or a visual concept that needs a technical path? Send a [mail](mailto:soninvox@gmail.com), open a discussion in a relevant repository, or support the next experiment on [Patreon](https://www.patreon.com/c/Surext).
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=NguyenSonhoa&style=for-the-badge&color=7f3fbf&label=PROFILE+SIGNALS)
+![Profile views](https://komarev.com/ghpvc/?username=NguyenSonhoa&style=for-the-badge&color=5b8731&label=PLAYERS+VISITED)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09090f,45:451080,100:00d9ff" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:2E1B12,50:6B452B,100:5B8731" width="100%" alt="Minecraft-inspired footer" />
 
 </div>
