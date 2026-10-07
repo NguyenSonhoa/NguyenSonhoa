@@ -28,7 +28,7 @@ I build Minecraft experiences where **code, game design, and visual identity** w
 - Learning Lua for services, automation, and experiments.
 - Exploring Blender, 3D workflows, and content creation.
 - Working with the MineRua team.
-- Planning a new creative chapter after the Minecraft server journey ends in **June 2028**.
+- Planning a new creative chapter after the Minecraft server journey ends in **June 2028**. Next is Vtuber or be youtuber live & yapping
 
 ## `> loadout`
 
