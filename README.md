@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:451080,100:00d9ff&text=SON%20NGUYEN&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Crafting%20systems.%20Shaping%20worlds.%20Finding%20new%20mechanics.&descAlignY=59&animation=fadeIn" width="100%" alt="Son Nguyen profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,45:451080,100:00d9ff&text=SON%20NGUYEN&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Crafting%20systems.%20Shaping%20worlds.%20Finding%20new%20mechanics.&descAlignY=59&animation=fadeIn" width="100%" alt="Rozenty profile banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=BB6BFF&center=true&vCenter=true&width=700&lines=Minecraft+Systems+Developer;UI%2FUX+Designer+%C2%B7+3D+Explorer;Java+%C2%B7+Kotlin+%C2%B7+Lua;Turning+wild+ideas+into+playable+mechanics)](https://git.io/typing-svg)
 
